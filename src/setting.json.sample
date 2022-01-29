@@ -1,0 +1,15 @@
+{
+  "apiServerUrl": "http://xxx.xxx.xxx.xxx:xxxx/play",
+  "googleHomeDevices": [
+    {
+      "name": "Google-Home-Mini-xxxx",
+      "alias": "リビング"
+    }
+  ],
+  "mp3Urls": [
+    {
+      "name": "xxxx",
+      "url": "http://xxx.xxx.xxx.xxx:xxxx/xxxx"
+    }
+  ]
+}
